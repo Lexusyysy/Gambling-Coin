@@ -3,7 +3,7 @@
  */
 
 // Main link (you must change on deploy with your domain name e.g. 'https://pekkycoin.com')
-export const mainLink = "https://pekk-yweb-site.vercel.app";
+export const mainLink = "https://pekky.xyz";
 export const telegramWebApp = `https://pekkycoinbot.t.me?startapp&utm_source=${mainLink}`; // Telegram bot's link
 
 // Socials
