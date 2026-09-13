@@ -8,7 +8,7 @@ export const telegramWebApp = `https://pekkycoinbot.t.me?startapp&utm_source=${m
 
 // Socials
 export const instagramLink = `https://www.instagram.com/pekkytoken?utm_source=${mainLink}`; // Instagram
-export const telegramLink = `https://t.me/pekkycoin?utm_source=${mainLink}`; // Telegram
+export const telegramLink = `https://t.me/pekkysol?utm_source=${mainLink}`; // Telegram
 export const twitterLink = `https://x.com/pekky_sol?utm_source=${mainLink}`; // Twitter
 
 // Token Info
